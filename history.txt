@@ -1,0 +1,1290 @@
+    1  sudo crontab -e
+    2  sudo shutdown 
+    3  clear
+    4  ls
+    5  sudo mv sendip.sh /var/local/
+    6  sudo mv setup.sh /var/local/
+    7  cd /var/local
+    8  ls
+    9  crontab -e
+   10  sudo crontab -e
+   11  sudo visudo 
+   12  sudo reboot 
+   13  sudo reboot
+   14  sudo visudo 
+   15  sudo reboot 
+   16  echo $MAC
+   17  cd /var/local/
+   18  bash sendip.sh 
+   19  vim sendip.sh 
+   20  cat sendip.sh 
+   21  nano sendip.sh 
+   22  cat sendip.sh 
+   23  bash sendip.sh 
+   24  sudo reboot
+   25  clear
+   26  ls
+   27  cd /var/local
+   28  nano setup.sh 
+   29  sudo shutdown 
+   30  cd /var/
+   31  cd local/
+   32  sudo vim sendip.sh 
+   33  sudo vim setup.sh 
+   34  sudo vim sendip.sh 
+   35  sudo vim setup.sh 
+   36  cd /var/local/
+   37  cat sendip.sh 
+   38  cat setup.sh 
+   39  cat sendip.sh 
+   40  cat setup.sh 
+   41  sudo apt instal nginx
+   42  sudo apt install nginx
+   43  sudo apt install nodejs npm
+   44  cd
+   45  ls
+   46  git clone https://github.com/SpaceUP-CUSAT-22/spaceup-backend-2021.git
+   47  cd spaceup-backend-2021/
+   48  ls
+   49  python3 -m venv venv
+   50  sudo apt install python3.8-venv
+   51  sudo apt-get -y install postgresql
+   52  sudo apt install postgis postgresql-12-postgis-3
+   53  sudo -u postgres psql
+   54  . venv/bin/activate
+   55  ls
+   56  cd venv/
+   57  ls
+   58  cd bin/
+   59  ls
+   60  cd py
+   61  ls
+   62  cd ..
+   63  rm -rf venv/
+   64  python3 -m venv venv
+   65  . venv/bin/activate
+   66  pip install -r requirements.txt 
+   67  python manage.py makemigrations
+   68  clear
+   69  ls
+   70  cd spaceup-backend-2021/
+   71  . venv/bin/activ
+   72  python manage.py makemigrations
+   73  python manage.py migrate
+   74  clear
+   75  python manage.py runserver 0.0.0.0:8000
+   76  python manage.py makemigrations
+   77  python manage.py makemigrations preevent
+   78  python manage.py migrate
+   79  python manage.py migrate preevent
+   80  rm **/migrations/0*
+   81  python manage.py makemigrations
+   82  python manage.py makemigrations home
+   83  python manage.py migrate
+   84  ls **/migrations/08
+   85  ls **/migrat
+   86  rm **/migrations/0*
+   87  python manage.py makemigrations 
+   88  python manage.py migrate
+   89  sudo -u postgres psql
+   90  python manage.py migrate
+   91  sudo -u postgres psql
+   92  python manage.py migrate
+   93  sudo -u postgres psql
+   94  python manage.py migrate
+   95  python manage.py runserver 0.0.0.0:8000
+   96  cd spaceup-backend-2021/
+   97  . venv/bin/activate
+   98  python manage.py createsuperuser
+   99  clear
+  100  cd spaceup-backend-2021/
+  101  . venv/bin/activate
+  102  screen -r
+  103  screen
+  104  screen -r
+  105  screen -r 77534.pts-2.trebuchet
+  106  fuser -k 8000/tcp
+  107  cd spaceup-backend-2021/
+  108  . venv/bin/activate
+  109  cleat
+  110  clear
+  111  . venv/bin/activate
+  112  python manage.py runserver 0.0.0.0:8000
+  113  python manage.py makemigrations tokens
+  114  python manage.py makemigrations authentication
+  115  python manage.py migrate
+  116  python manage.py runserver 0.0.0.0:8000
+  117  python manage.py makemigrations authentication
+  118  python manage.py migrate
+  119  python manage.py runserver 0.0.0.0:8000
+  120  python manage.py makemigrations 
+  121  python manage.py migrate
+  122  python manage.py runserver 0.0.0.0:8000
+  123  python manage.py shell
+  124  python manage.py runserver 0.0.0.0:8000
+  125  ls
+  126  cd spaceup-backend-2021/
+  127  ls
+  128  . venv/bin/activate
+  129  screen -r
+  130  clear
+  131  ls
+  132  cd spaceup-backend-2021/
+  133  . venv/bin/activate
+  134  screen -r
+  135  cd spaceup-backend-2021/
+  136  ls
+  137  screen -r
+  138  . venv/bin/activate
+  139  python manage.py runserver 0.0.0.0:8000
+  140  fuser -k 8000/tcp
+  141  python manage.py runserver 0.0.0.0:8000
+  142  python manage.py makemigrations
+  143  python manage.py runserver 0.0.0.0:8000
+  144  python manage.py makemigrations
+  145  clear
+  146  python manage.py migrate
+  147  python manage.py runserver 0.0.0.0:8000
+  148  python manage.py runserver 0.0.0.0:8080
+  149  clear
+  150  screen -r
+  151  python manage.py mig
+  152  python manage.py runserver 0.0.0.0:8000
+  153  python manage.py makemigrations 
+  154  python manage.py migrate
+  155  python manage.py makemigrations 
+  156  python manage.py migrate
+  157  python manage.py makemigrations 
+  158  python manage.py migrate
+  159  rm authentication/migrations/0*
+  160  python manage.py makemigrations 
+  161  python manage.py migrate
+  162  python manage.py makemigrations 
+  163  python manage.py migrate
+  164  python manage.py makemigrations 
+  165  python manage.py migrate
+  166  python manage.py migrate --fake
+  167  python manage.py makemigrations 
+  168  python manage.py migrate
+  169  python manage.py makemigrations 
+  170  python manage.py migrate
+  171  python manage.py shell
+  172  python manage.py runserver 0.0.0.0:8000
+  173  python manage.py makemigrations 
+  174  python manage.py migrate
+  175  python manage.py runserver 0.0.0.0:8000
+  176  python manage.py makemigrations 
+  177  python manage.py migrate
+  178  python manage.py runserver 0.0.0.0:8000
+  179  screeen -r
+  180  \screen -r
+  181  cd spaceup-backend-2021/
+  182  . venv/bin/activate
+  183  python manage.py runserver 0.0.0.0:8000
+  184  python manage.py makemigrations
+  185  python manage.py runserver 0.0.0.0:8000
+  186  python manage.py migrate
+  187  python manage.py runserver 0.0.0.0:8000
+  188  python manage.py makemigrations
+  189  python manage.py migrate
+  190  python manage.py runserver 0.0.0.0:8000
+  191  cds spaceup-backend-2021/
+  192  cd spaceup-backend-2021
+  193  . venv/bin/activate
+  194  python manage.py runserver 0.0.0.0:8000
+  195  pip install django-qrcode==0.3
+  196  python manage.py runserver 0.0.0.0:8000
+  197  pip uninstall django-qrcode==0.3
+  198  pip uninstall qrcode
+  199  pip install qrcode
+  200  python manage.py runserver 0.0.0.0:8000
+  201  python manage.py makemigrations
+  202  python manage.py migrate
+  203  ls
+  204  python manage.py shell
+  205  python manage.py runserver 0.0.0.0:8000
+  206  python manage.py shell
+  207  screen -r
+  208  screen -f
+  209  cd spaceup-backend-2021/
+  210  . venv/bin/activate
+  211  python manage.py shell
+  212  python manage.py makemigrations
+  213  python manage.py migrate
+  214  ls
+  215  git clone https://github.com/SpaceUP-CUSAT-22/spaceup-frontend.git
+  216  cd /etc/nginx/sites-enabled/
+  217  ls
+  218  sudo nano spaceupcusat.org
+  219  sudo systemctl reload nginx.service 
+  220  cd 
+  221  ls
+  222  cd spaceup-frontend/
+  223  npm i
+  224  npm build
+  225  npm run-script build
+  226  npm run-script build4
+  227  npm run-script build
+  228  ls
+  229  cd ..
+  230  cd spaceup-
+  231  cd spaceup-frontend/
+  232  ls
+  233  git pull
+  234  ls
+  235  cd spaceup-frontend/
+  236  git pull
+  237  cd spaceup-frontend/
+  238  git pull
+  239  cd ../
+  240  git status
+  241  cd spaceup-frontend/
+  242  ls
+  243  git status
+  244  ls
+  245  cd /etc/nginx/sites-enabled/
+  246  ls
+  247  sudo nano spaceupcusat.org 
+  248  sudo systemctl reload nginx.service 
+  249  cd
+  250  cd spaceup-frontend/
+  251  git pull
+  252  ls
+  253  cd spaceup-
+  254  cd spaceup-frontend/
+  255  git pulll
+  256  git pull
+  257  cd spaceup-frontend/
+  258  git pull
+  259  ls
+  260  git fetch
+  261  ls
+  262  cd spaceup-frontend/
+  263  git fetch
+  264  git pull
+  265  git commit -m "Server package.json fix"
+  266  nano package-lock.json 
+  267  git config --global user.email "sharunpublic@gmail.com"
+  268  git config --global user.name "Sharun"
+  269  git commit -m "Server package.json fix"
+  270  git add *
+  271  git pull
+  272  git rollback
+  273  git --help
+  274  git fetch
+  275  git pull
+  276  git status
+  277  git restore --staged package-lock.json
+  278  git status
+  279  git restore package-lock.json
+  280  git status
+  281  git pull
+  282  exit
+  283  cd spaceup-frontedn
+  284  history
+  285  cd spaceup-frontend/
+  286  git pull
+  287  cd spaceup-backend-2021
+  288  . venv/bin/activate
+  289  python manage.py runserver 0.0.0.0:8000
+  290  python manage.py shell
+  291  python manage.py runserver 0.0.0.0:8000
+  292  python manage.py makemigrations
+  293  python manage.py migrate
+  294  python manage.py runserver 0.0.0.0:8000
+  295  pip install openpyxl
+  296  python manage.py runserver 0.0.0.0:8000
+  297  cd spaceup-
+  298  cd spaceup-frontend/
+  299  pip install pandas
+  300  cd ..
+  301  cd spaceup-backend-2021/
+  302  . venv/bin/activate
+  303  pip install pandas
+  304  python manage.py makemigrations
+  305  python manage.pymigrate
+  306  python manage.py migrate
+  307  rm **/migrations/0*
+  308  python manage.py migrate
+  309  python manage.py createsuperuser
+  310  python manage.py makemigrations home preevent
+  311  python manage.py makemigrations authentication
+  312  python manage.py migrate
+  313  cat .env 
+  314  ls
+  315  screen -r
+  316  python manage.py runserver 0.0.0.0:8000
+  317  cd spaceup-backend-2021/
+  318  ls
+  319  cd media/
+  320  ks
+  321  ls
+  322  cd images/
+  323  ls
+  324  cd ..
+  325  python manage.py runserver 0.0.0.0:8000
+  326  cd media/images/
+  327  ls
+  328  cd spaceup-backend-2021/
+  329  . venv/bin/activate
+  330  python manage.py shell
+  331  pip uninstall pandas
+  332  pip install pandas==1.4.1
+  333  python manage.py shell
+  334  python manage.py runserver 0.0.0.0:8000
+  335  ls
+  336  python manage.py runserver 0.0.0.0:8000
+  337  python manage.py shell
+  338  ls
+  339  python manage.py shell
+  340  python manage.py shell << scripts.py 
+  341  python manage.py shell < scripts.py 
+  342  python manage.py shell
+  343  python manage.py shell < scripts.py 
+  344  python manage.py runserver 0.0.0.0:8000
+  345  python manage.py shell < scripts.py 
+  346  python manage.py runserver 0.0.0.0:8000
+  347  cd spaceup-backend-2021/
+  348  . venv/bin/activate
+  349  python manage.py makemigstions
+  350  python manage.py makemigrations
+  351  python manage.py migrate
+  352  screen -r
+  353  python manage.py shell < scripts.py 
+  354  clear
+  355  ls
+  356  cd spaceup-backend-2021/
+  357  git pull
+  358  git status
+  359  cd ..
+  360  cd spaceup-backend-2021/
+  361  ls
+  362  . venv/bin/activate
+  363  python manage.py runserver 0.0.0.0:8000
+  364  cd spaceup-backend-2021/
+  365  . venv/bin/activate
+  366  import imgkit
+  367  pip install imgkit
+  368  python manage.py shell
+  369  cd spaceup-backend-2021/
+  370  . venv/bin/activate
+  371  screen -r
+  372  python manage.py runserver 0.0.0.0:8000
+  373  fuser -k 8000/tcp
+  374  python manage.py runserver 0.0.0.0:8000
+  375  cd spaceup-backend-2021/
+  376  . venv/bin/activate
+  377  git config --global user.name "Sharun"
+  378  nhkjkjhkj;kj
+  379  [p
+  380  python manage.py runserver 0.0.0.0:8000
+  381  screen -f
+  382  ls
+  383  cd spaceup-backend-2021/
+  384  ls
+  385  . venv/bin/activate
+  386  python manage.py shell < scripts.py 
+  387  python manage.py shell 
+  388  ls
+  389  python manage.py shell < scripts.py 
+  390  screen -r
+  391  cd spaceup-backend-2021/
+  392  . venv/bin/activate
+  393  screen -r
+  394  cd spaceup-backend-2021/
+  395  . venv/bin/activate
+  396  ls
+  397  screen -r
+  398  screen -r 191323.pts-0.trebuchet
+  399  cd spaceup-backend-2021/
+  400  ls
+  401  . venv/bin/activate
+  402  ls
+  403  screen -r
+  404  fuser -k 8000/tcp
+  405  screen -r
+  406  screen -f
+  407  screen -r
+  408  screen -r 192705.pts-2.trebuchet
+  409  dc spaceup-backend-2021/
+  410  cd spaceup-backend-2021/
+  411  . venv/bin/activate
+  412  ls
+  413  clear
+  414  ls
+  415  screen -r
+  416  screen -r 192705.pts-2.trebuchet
+  417  git pull
+  418  git fetch
+  419  ls
+  420  cd spaceup-
+  421  cd spaceup-frontend
+  422  git fetch
+  423  git pull
+  424  git fetch
+  425  git pull
+  426  ls
+  427  cd spaceup-backend-2021/
+  428  ls
+  429  . venv/bin/activate
+  430  screen -r
+  431  cd spaceup-backend-2021/
+  432  screen -r 192705.pts-2.trebuchet
+  433  screen -r
+  434  screen -r 192705.pts-2.trebuchet
+  435  cd spaceup-backend-2021/
+  436  . venv/bin/activate
+  437  python manage.py shell < scripts.py 
+  438  python manage.py shell <
+  439  python manage.py shell 
+  440  cd spaceup-backend-2021/auth
+  441  cd spaceup-backend-20
+  442  cd spaceup-backend-2021/
+  443  . venv/bin/activate
+  444  python manage.py makemigrations
+  445  python manage.py migrate
+  446  ls
+  447  cd spaceup-frontend/
+  448  git pull
+  449  ls
+  450  cd spaceup-frontend/
+  451  git pull
+  452  git fetch
+  453  git pull
+  454  ls
+  455  git build
+  456  ls
+  457  cd spaceup-backend-2021/
+  458  screen -r
+  459  cd ..
+  460  sudo rm -rf *
+  461  ls
+  462  cd ..
+  463  ls
+  464  cd ll
+  465  who
+  466  w
+  467  ps
+  468  ps -e
+  469  ps -eo user
+  470  ps -eoh user | wc -l
+  471  ps -eho user | wc -l
+  472  ps -eho user | sort -u | wc -l
+  473  ps -eho user | sort -u 
+  474  ps -eho user | sort
+  475  ps -eho user
+  476  ps -eh
+  477  ps -e
+  478  ps -eo user
+  479  ps -eo user | sort -u
+  480  ps -eo user | sort -u | wc -l
+  481  who
+  482  who | cut -d " " -f 1
+  483  su user1
+  484  sudo useradd test 1
+  485  sudo useradd user1
+  486  su user1
+  487  sudo useradd -D
+  488  sudo useradd -p 12345678
+  489  sudo useradd user1 -p 12345678
+  490  sudo passwd user1
+  491  sudo useradd user2 -p 12345678
+  492  su user2
+  493  sudo passwd user2
+  494  su user2
+  495  exit
+  496  cd /var/local/
+  497  ls
+  498  cat setup.sh 
+  499  cat sendip.sh se
+  500  sudo zerotier-cli join 565799d8f6318453
+  501  ifconfig
+  502  ls
+  503  ifconfig
+  504  sudo vi /etc/ssh/sshd_config
+  505  sudo systemctl restart sshd
+  506  cd ..
+  507  mkdir user1
+  508  sudo mkdir user1
+  509  sudo chown user1 user1
+  510  adduser user3
+  511  asudo dduser user3
+  512  sudo adduser user3
+  513  su user3
+  514  man adduser
+  515  sudo vi /etc/default/useradd
+  516  man chage
+  517  deluser --remove-home user1
+  518  sudo deluser --remove-home user1
+  519  sudo deluser --remove-home user2
+  520  sudo deluser --remove-home user3
+  521  sudo deluser --remove-home user1
+  522  sudo mkdir user[123456789]
+  523  ls
+  524  sudo mkdir user [123456789]
+  525  sh
+  526  (cd /)
+  527  (cd / | pwd)
+  528  (cd / & pwd)
+  529  (cd / && ls)
+  530  {d / && ls}
+  531  {cd / && ls}
+  532  { cd / && ls}  ;
+  533  { cd / && ls } ; { cd / && ls } ; }; { }}
+  534  { cd / ls }
+  535  { cd / ; ls }; ;
+  536  { cd / ; ls } ;  ;
+  537  su suer1
+  538  su user1
+  539  sudo adduser
+  540  sudo adduser user1 user2
+  541  sudo adduser user1
+  542  su suer1
+  543  su user1
+  544  sudo su user1
+  545  ls
+  546  touch test
+  547  ls
+  548  ls -a
+  549  mkdir Documents
+  550  cd Documents/
+  551  ls -a
+  552  cd  .
+  553  cd ..
+  554  cd -
+  555  mkdir rohit
+  556  ls -ltr
+  557  cd rohit
+  558  touch abc.txt
+  559  ls
+  560  cat abc.txt 
+  561  nano abc.txt 
+  562  cat abc.txt 
+  563  cd /
+  564  ls
+  565  cd home/
+  566  ls
+  567  cd user
+  568  ls
+  569  cd Documents/
+  570  ls
+  571  cd rohit/
+  572  echo "hi"
+  573  echo "something"
+  574  echo *
+  575  ls
+  576  echo *.txt
+  577  touch test.py
+  578  echo *.txt
+  579  echo *.jpg
+  580  echo *.txt
+  581  ls
+  582  mkdir sunith
+  583  ls
+  584  mv *txt sunith/
+  585  ls
+  586  ls sunith/
+  587  cp sunith/abc.txt .
+  588  ls
+  589  pwd
+  590  ls
+  591  cat /home/user/Documents/rohit/abc.txt 
+  592  cat abc.txt 
+  593  cd ..
+  594  cat abc.txt
+  595  cat /home/user/Documents/rohit/abc.txt 
+  596  ls ../../../
+  597  ls ../../../home/user/Documents/
+  598  ls
+  599  cd rohit/
+  600  ls
+  601  rm abc.txt 
+  602  ls
+  603  rm sunith
+  604  rmdir sunith
+  605  rm -r sunith/
+  606  ls
+  607  man ls
+  608  touch .hidden.txt
+  609  ls
+  610  ls -a
+  611  mv .hidden.txt hidden.txt
+  612  ls
+  613  ls -a
+  614  ls -A
+  615  ls -a
+  616  cpy
+  617  ls
+  618  nano hidden.txt 
+  619  nano test.py 
+  620  ls
+  621  cat hidden.txt 
+  622  cat hidden.txt > test.py
+  623  cat test.py 
+  624  nano test.py 
+  625  cat hidden.txt >> test.py
+  626  cat test.py 
+  627  cat hidden.txt > wc -l
+  628  cat hidden.txt > wc
+  629  ls
+  630  cat wc
+  631  cat hidden.txt | wc
+  632  cat hidden.txt | wc -l
+  633  cat test.py | wc -l
+  634  cat test.py && ls 
+  635  mkdir test && touch test/abc.txt
+  636  ls test
+  637  mkdir /test && touch test/abc.txt
+  638  mkdir /test && touch /test/abc.txt
+  639  mkdir /test || touch test/abc
+  640  cat test
+  641  ls test
+  642  mkdir /test & touch /test/abc.txt
+  643  history 
+  644  history >> history.txt
+    1  sudo crontab -e
+    2  sudo shutdown 
+    3  clear
+    4  ls
+    5  sudo mv sendip.sh /var/local/
+    6  sudo mv setup.sh /var/local/
+    7  cd /var/local
+    8  ls
+    9  crontab -e
+   10  sudo crontab -e
+   11  sudo visudo 
+   12  sudo reboot 
+   13  sudo reboot
+   14  sudo visudo 
+   15  sudo reboot 
+   16  echo $MAC
+   17  cd /var/local/
+   18  bash sendip.sh 
+   19  vim sendip.sh 
+   20  cat sendip.sh 
+   21  nano sendip.sh 
+   22  cat sendip.sh 
+   23  bash sendip.sh 
+   24  sudo reboot
+   25  clear
+   26  ls
+   27  cd /var/local
+   28  nano setup.sh 
+   29  sudo shutdown 
+   30  cd /var/
+   31  cd local/
+   32  sudo vim sendip.sh 
+   33  sudo vim setup.sh 
+   34  sudo vim sendip.sh 
+   35  sudo vim setup.sh 
+   36  cd /var/local/
+   37  cat sendip.sh 
+   38  cat setup.sh 
+   39  cat sendip.sh 
+   40  cat setup.sh 
+   41  sudo apt instal nginx
+   42  sudo apt install nginx
+   43  sudo apt install nodejs npm
+   44  cd
+   45  ls
+   46  git clone https://github.com/SpaceUP-CUSAT-22/spaceup-backend-2021.git
+   47  cd spaceup-backend-2021/
+   48  ls
+   49  python3 -m venv venv
+   50  sudo apt install python3.8-venv
+   51  sudo apt-get -y install postgresql
+   52  sudo apt install postgis postgresql-12-postgis-3
+   53  sudo -u postgres psql
+   54  . venv/bin/activate
+   55  ls
+   56  cd venv/
+   57  ls
+   58  cd bin/
+   59  ls
+   60  cd py
+   61  ls
+   62  cd ..
+   63  rm -rf venv/
+   64  python3 -m venv venv
+   65  . venv/bin/activate
+   66  pip install -r requirements.txt 
+   67  python manage.py makemigrations
+   68  clear
+   69  ls
+   70  cd spaceup-backend-2021/
+   71  . venv/bin/activ
+   72  python manage.py makemigrations
+   73  python manage.py migrate
+   74  clear
+   75  python manage.py runserver 0.0.0.0:8000
+   76  python manage.py makemigrations
+   77  python manage.py makemigrations preevent
+   78  python manage.py migrate
+   79  python manage.py migrate preevent
+   80  rm **/migrations/0*
+   81  python manage.py makemigrations
+   82  python manage.py makemigrations home
+   83  python manage.py migrate
+   84  ls **/migrations/08
+   85  ls **/migrat
+   86  rm **/migrations/0*
+   87  python manage.py makemigrations 
+   88  python manage.py migrate
+   89  sudo -u postgres psql
+   90  python manage.py migrate
+   91  sudo -u postgres psql
+   92  python manage.py migrate
+   93  sudo -u postgres psql
+   94  python manage.py migrate
+   95  python manage.py runserver 0.0.0.0:8000
+   96  cd spaceup-backend-2021/
+   97  . venv/bin/activate
+   98  python manage.py createsuperuser
+   99  clear
+  100  cd spaceup-backend-2021/
+  101  . venv/bin/activate
+  102  screen -r
+  103  screen
+  104  screen -r
+  105  screen -r 77534.pts-2.trebuchet
+  106  fuser -k 8000/tcp
+  107  cd spaceup-backend-2021/
+  108  . venv/bin/activate
+  109  cleat
+  110  clear
+  111  . venv/bin/activate
+  112  python manage.py runserver 0.0.0.0:8000
+  113  python manage.py makemigrations tokens
+  114  python manage.py makemigrations authentication
+  115  python manage.py migrate
+  116  python manage.py runserver 0.0.0.0:8000
+  117  python manage.py makemigrations authentication
+  118  python manage.py migrate
+  119  python manage.py runserver 0.0.0.0:8000
+  120  python manage.py makemigrations 
+  121  python manage.py migrate
+  122  python manage.py runserver 0.0.0.0:8000
+  123  python manage.py shell
+  124  python manage.py runserver 0.0.0.0:8000
+  125  ls
+  126  cd spaceup-backend-2021/
+  127  ls
+  128  . venv/bin/activate
+  129  screen -r
+  130  clear
+  131  ls
+  132  cd spaceup-backend-2021/
+  133  . venv/bin/activate
+  134  screen -r
+  135  cd spaceup-backend-2021/
+  136  ls
+  137  screen -r
+  138  . venv/bin/activate
+  139  python manage.py runserver 0.0.0.0:8000
+  140  fuser -k 8000/tcp
+  141  python manage.py runserver 0.0.0.0:8000
+  142  python manage.py makemigrations
+  143  python manage.py runserver 0.0.0.0:8000
+  144  python manage.py makemigrations
+  145  clear
+  146  python manage.py migrate
+  147  python manage.py runserver 0.0.0.0:8000
+  148  python manage.py runserver 0.0.0.0:8080
+  149  clear
+  150  screen -r
+  151  python manage.py mig
+  152  python manage.py runserver 0.0.0.0:8000
+  153  python manage.py makemigrations 
+  154  python manage.py migrate
+  155  python manage.py makemigrations 
+  156  python manage.py migrate
+  157  python manage.py makemigrations 
+  158  python manage.py migrate
+  159  rm authentication/migrations/0*
+  160  python manage.py makemigrations 
+  161  python manage.py migrate
+  162  python manage.py makemigrations 
+  163  python manage.py migrate
+  164  python manage.py makemigrations 
+  165  python manage.py migrate
+  166  python manage.py migrate --fake
+  167  python manage.py makemigrations 
+  168  python manage.py migrate
+  169  python manage.py makemigrations 
+  170  python manage.py migrate
+  171  python manage.py shell
+  172  python manage.py runserver 0.0.0.0:8000
+  173  python manage.py makemigrations 
+  174  python manage.py migrate
+  175  python manage.py runserver 0.0.0.0:8000
+  176  python manage.py makemigrations 
+  177  python manage.py migrate
+  178  python manage.py runserver 0.0.0.0:8000
+  179  screeen -r
+  180  \screen -r
+  181  cd spaceup-backend-2021/
+  182  . venv/bin/activate
+  183  python manage.py runserver 0.0.0.0:8000
+  184  python manage.py makemigrations
+  185  python manage.py runserver 0.0.0.0:8000
+  186  python manage.py migrate
+  187  python manage.py runserver 0.0.0.0:8000
+  188  python manage.py makemigrations
+  189  python manage.py migrate
+  190  python manage.py runserver 0.0.0.0:8000
+  191  cds spaceup-backend-2021/
+  192  cd spaceup-backend-2021
+  193  . venv/bin/activate
+  194  python manage.py runserver 0.0.0.0:8000
+  195  pip install django-qrcode==0.3
+  196  python manage.py runserver 0.0.0.0:8000
+  197  pip uninstall django-qrcode==0.3
+  198  pip uninstall qrcode
+  199  pip install qrcode
+  200  python manage.py runserver 0.0.0.0:8000
+  201  python manage.py makemigrations
+  202  python manage.py migrate
+  203  ls
+  204  python manage.py shell
+  205  python manage.py runserver 0.0.0.0:8000
+  206  python manage.py shell
+  207  screen -r
+  208  screen -f
+  209  cd spaceup-backend-2021/
+  210  . venv/bin/activate
+  211  python manage.py shell
+  212  python manage.py makemigrations
+  213  python manage.py migrate
+  214  ls
+  215  git clone https://github.com/SpaceUP-CUSAT-22/spaceup-frontend.git
+  216  cd /etc/nginx/sites-enabled/
+  217  ls
+  218  sudo nano spaceupcusat.org
+  219  sudo systemctl reload nginx.service 
+  220  cd 
+  221  ls
+  222  cd spaceup-frontend/
+  223  npm i
+  224  npm build
+  225  npm run-script build
+  226  npm run-script build4
+  227  npm run-script build
+  228  ls
+  229  cd ..
+  230  cd spaceup-
+  231  cd spaceup-frontend/
+  232  ls
+  233  git pull
+  234  ls
+  235  cd spaceup-frontend/
+  236  git pull
+  237  cd spaceup-frontend/
+  238  git pull
+  239  cd ../
+  240  git status
+  241  cd spaceup-frontend/
+  242  ls
+  243  git status
+  244  ls
+  245  cd /etc/nginx/sites-enabled/
+  246  ls
+  247  sudo nano spaceupcusat.org 
+  248  sudo systemctl reload nginx.service 
+  249  cd
+  250  cd spaceup-frontend/
+  251  git pull
+  252  ls
+  253  cd spaceup-
+  254  cd spaceup-frontend/
+  255  git pulll
+  256  git pull
+  257  cd spaceup-frontend/
+  258  git pull
+  259  ls
+  260  git fetch
+  261  ls
+  262  cd spaceup-frontend/
+  263  git fetch
+  264  git pull
+  265  git commit -m "Server package.json fix"
+  266  nano package-lock.json 
+  267  git config --global user.email "sharunpublic@gmail.com"
+  268  git config --global user.name "Sharun"
+  269  git commit -m "Server package.json fix"
+  270  git add *
+  271  git pull
+  272  git rollback
+  273  git --help
+  274  git fetch
+  275  git pull
+  276  git status
+  277  git restore --staged package-lock.json
+  278  git status
+  279  git restore package-lock.json
+  280  git status
+  281  git pull
+  282  exit
+  283  cd spaceup-frontedn
+  284  history
+  285  cd spaceup-frontend/
+  286  git pull
+  287  cd spaceup-backend-2021
+  288  . venv/bin/activate
+  289  python manage.py runserver 0.0.0.0:8000
+  290  python manage.py shell
+  291  python manage.py runserver 0.0.0.0:8000
+  292  python manage.py makemigrations
+  293  python manage.py migrate
+  294  python manage.py runserver 0.0.0.0:8000
+  295  pip install openpyxl
+  296  python manage.py runserver 0.0.0.0:8000
+  297  cd spaceup-
+  298  cd spaceup-frontend/
+  299  pip install pandas
+  300  cd ..
+  301  cd spaceup-backend-2021/
+  302  . venv/bin/activate
+  303  pip install pandas
+  304  python manage.py makemigrations
+  305  python manage.pymigrate
+  306  python manage.py migrate
+  307  rm **/migrations/0*
+  308  python manage.py migrate
+  309  python manage.py createsuperuser
+  310  python manage.py makemigrations home preevent
+  311  python manage.py makemigrations authentication
+  312  python manage.py migrate
+  313  cat .env 
+  314  ls
+  315  screen -r
+  316  python manage.py runserver 0.0.0.0:8000
+  317  cd spaceup-backend-2021/
+  318  ls
+  319  cd media/
+  320  ks
+  321  ls
+  322  cd images/
+  323  ls
+  324  cd ..
+  325  python manage.py runserver 0.0.0.0:8000
+  326  cd media/images/
+  327  ls
+  328  cd spaceup-backend-2021/
+  329  . venv/bin/activate
+  330  python manage.py shell
+  331  pip uninstall pandas
+  332  pip install pandas==1.4.1
+  333  python manage.py shell
+  334  python manage.py runserver 0.0.0.0:8000
+  335  ls
+  336  python manage.py runserver 0.0.0.0:8000
+  337  python manage.py shell
+  338  ls
+  339  python manage.py shell
+  340  python manage.py shell << scripts.py 
+  341  python manage.py shell < scripts.py 
+  342  python manage.py shell
+  343  python manage.py shell < scripts.py 
+  344  python manage.py runserver 0.0.0.0:8000
+  345  python manage.py shell < scripts.py 
+  346  python manage.py runserver 0.0.0.0:8000
+  347  cd spaceup-backend-2021/
+  348  . venv/bin/activate
+  349  python manage.py makemigstions
+  350  python manage.py makemigrations
+  351  python manage.py migrate
+  352  screen -r
+  353  python manage.py shell < scripts.py 
+  354  clear
+  355  ls
+  356  cd spaceup-backend-2021/
+  357  git pull
+  358  git status
+  359  cd ..
+  360  cd spaceup-backend-2021/
+  361  ls
+  362  . venv/bin/activate
+  363  python manage.py runserver 0.0.0.0:8000
+  364  cd spaceup-backend-2021/
+  365  . venv/bin/activate
+  366  import imgkit
+  367  pip install imgkit
+  368  python manage.py shell
+  369  cd spaceup-backend-2021/
+  370  . venv/bin/activate
+  371  screen -r
+  372  python manage.py runserver 0.0.0.0:8000
+  373  fuser -k 8000/tcp
+  374  python manage.py runserver 0.0.0.0:8000
+  375  cd spaceup-backend-2021/
+  376  . venv/bin/activate
+  377  git config --global user.name "Sharun"
+  378  nhkjkjhkj;kj
+  379  [p
+  380  python manage.py runserver 0.0.0.0:8000
+  381  screen -f
+  382  ls
+  383  cd spaceup-backend-2021/
+  384  ls
+  385  . venv/bin/activate
+  386  python manage.py shell < scripts.py 
+  387  python manage.py shell 
+  388  ls
+  389  python manage.py shell < scripts.py 
+  390  screen -r
+  391  cd spaceup-backend-2021/
+  392  . venv/bin/activate
+  393  screen -r
+  394  cd spaceup-backend-2021/
+  395  . venv/bin/activate
+  396  ls
+  397  screen -r
+  398  screen -r 191323.pts-0.trebuchet
+  399  cd spaceup-backend-2021/
+  400  ls
+  401  . venv/bin/activate
+  402  ls
+  403  screen -r
+  404  fuser -k 8000/tcp
+  405  screen -r
+  406  screen -f
+  407  screen -r
+  408  screen -r 192705.pts-2.trebuchet
+  409  dc spaceup-backend-2021/
+  410  cd spaceup-backend-2021/
+  411  . venv/bin/activate
+  412  ls
+  413  clear
+  414  ls
+  415  screen -r
+  416  screen -r 192705.pts-2.trebuchet
+  417  git pull
+  418  git fetch
+  419  ls
+  420  cd spaceup-
+  421  cd spaceup-frontend
+  422  git fetch
+  423  git pull
+  424  git fetch
+  425  git pull
+  426  ls
+  427  cd spaceup-backend-2021/
+  428  ls
+  429  . venv/bin/activate
+  430  screen -r
+  431  cd spaceup-backend-2021/
+  432  screen -r 192705.pts-2.trebuchet
+  433  screen -r
+  434  screen -r 192705.pts-2.trebuchet
+  435  cd spaceup-backend-2021/
+  436  . venv/bin/activate
+  437  python manage.py shell < scripts.py 
+  438  python manage.py shell <
+  439  python manage.py shell 
+  440  cd spaceup-backend-2021/auth
+  441  cd spaceup-backend-20
+  442  cd spaceup-backend-2021/
+  443  . venv/bin/activate
+  444  python manage.py makemigrations
+  445  python manage.py migrate
+  446  ls
+  447  cd spaceup-frontend/
+  448  git pull
+  449  ls
+  450  cd spaceup-frontend/
+  451  git pull
+  452  git fetch
+  453  git pull
+  454  ls
+  455  git build
+  456  ls
+  457  cd spaceup-backend-2021/
+  458  screen -r
+  459  cd ..
+  460  sudo rm -rf *
+  461  ls
+  462  cd ..
+  463  ls
+  464  cd ll
+  465  who
+  466  w
+  467  ps
+  468  ps -e
+  469  ps -eo user
+  470  ps -eoh user | wc -l
+  471  ps -eho user | wc -l
+  472  ps -eho user | sort -u | wc -l
+  473  ps -eho user | sort -u 
+  474  ps -eho user | sort
+  475  ps -eho user
+  476  ps -eh
+  477  ps -e
+  478  ps -eo user
+  479  ps -eo user | sort -u
+  480  ps -eo user | sort -u | wc -l
+  481  who
+  482  who | cut -d " " -f 1
+  483  su user1
+  484  sudo useradd test 1
+  485  sudo useradd user1
+  486  su user1
+  487  sudo useradd -D
+  488  sudo useradd -p 12345678
+  489  sudo useradd user1 -p 12345678
+  490  sudo passwd user1
+  491  sudo useradd user2 -p 12345678
+  492  su user2
+  493  sudo passwd user2
+  494  su user2
+  495  exit
+  496  cd /var/local/
+  497  ls
+  498  cat setup.sh 
+  499  cat sendip.sh se
+  500  sudo zerotier-cli join 565799d8f6318453
+  501  ifconfig
+  502  ls
+  503  ifconfig
+  504  sudo vi /etc/ssh/sshd_config
+  505  sudo systemctl restart sshd
+  506  cd ..
+  507  mkdir user1
+  508  sudo mkdir user1
+  509  sudo chown user1 user1
+  510  adduser user3
+  511  asudo dduser user3
+  512  sudo adduser user3
+  513  su user3
+  514  man adduser
+  515  sudo vi /etc/default/useradd
+  516  man chage
+  517  deluser --remove-home user1
+  518  sudo deluser --remove-home user1
+  519  sudo deluser --remove-home user2
+  520  sudo deluser --remove-home user3
+  521  sudo deluser --remove-home user1
+  522  sudo mkdir user[123456789]
+  523  ls
+  524  sudo mkdir user [123456789]
+  525  sh
+  526  (cd /)
+  527  (cd / | pwd)
+  528  (cd / & pwd)
+  529  (cd / && ls)
+  530  {d / && ls}
+  531  {cd / && ls}
+  532  { cd / && ls}  ;
+  533  { cd / && ls } ; { cd / && ls } ; }; { }}
+  534  { cd / ls }
+  535  { cd / ; ls }; ;
+  536  { cd / ; ls } ;  ;
+  537  su suer1
+  538  su user1
+  539  sudo adduser
+  540  sudo adduser user1 user2
+  541  sudo adduser user1
+  542  su suer1
+  543  su user1
+  544  sudo su user1
+  545  ls
+  546  touch test
+  547  ls
+  548  ls -a
+  549  mkdir Documents
+  550  cd Documents/
+  551  ls -a
+  552  cd  .
+  553  cd ..
+  554  cd -
+  555  mkdir rohit
+  556  ls -ltr
+  557  cd rohit
+  558  touch abc.txt
+  559  ls
+  560  cat abc.txt 
+  561  nano abc.txt 
+  562  cat abc.txt 
+  563  cd /
+  564  ls
+  565  cd home/
+  566  ls
+  567  cd user
+  568  ls
+  569  cd Documents/
+  570  ls
+  571  cd rohit/
+  572  echo "hi"
+  573  echo "something"
+  574  echo *
+  575  ls
+  576  echo *.txt
+  577  touch test.py
+  578  echo *.txt
+  579  echo *.jpg
+  580  echo *.txt
+  581  ls
+  582  mkdir sunith
+  583  ls
+  584  mv *txt sunith/
+  585  ls
+  586  ls sunith/
+  587  cp sunith/abc.txt .
+  588  ls
+  589  pwd
+  590  ls
+  591  cat /home/user/Documents/rohit/abc.txt 
+  592  cat abc.txt 
+  593  cd ..
+  594  cat abc.txt
+  595  cat /home/user/Documents/rohit/abc.txt 
+  596  ls ../../../
+  597  ls ../../../home/user/Documents/
+  598  ls
+  599  cd rohit/
+  600  ls
+  601  rm abc.txt 
+  602  ls
+  603  rm sunith
+  604  rmdir sunith
+  605  rm -r sunith/
+  606  ls
+  607  man ls
+  608  touch .hidden.txt
+  609  ls
+  610  ls -a
+  611  mv .hidden.txt hidden.txt
+  612  ls
+  613  ls -a
+  614  ls -A
+  615  ls -a
+  616  cpy
+  617  ls
+  618  nano hidden.txt 
+  619  nano test.py 
+  620  ls
+  621  cat hidden.txt 
+  622  cat hidden.txt > test.py
+  623  cat test.py 
+  624  nano test.py 
+  625  cat hidden.txt >> test.py
+  626  cat test.py 
+  627  cat hidden.txt > wc -l
+  628  cat hidden.txt > wc
+  629  ls
+  630  cat wc
+  631  cat hidden.txt | wc
+  632  cat hidden.txt | wc -l
+  633  cat test.py | wc -l
+  634  cat test.py && ls 
+  635  mkdir test && touch test/abc.txt
+  636  ls test
+  637  mkdir /test && touch test/abc.txt
+  638  mkdir /test && touch /test/abc.txt
+  639  mkdir /test || touch test/abc
+  640  cat test
+  641  ls test
+  642  mkdir /test & touch /test/abc.txt
+  643  history 
+  644  history >> history.txt
+  645  cat history.txt 
+  646  history >> history.txt
