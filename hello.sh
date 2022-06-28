@@ -1,4 +1,4 @@
-echo "enter your first number"
+echo "enter your any number"
 read n1
 echo  "First number is $n1"
 echo "Enter your Second Number"
